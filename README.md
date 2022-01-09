@@ -10,7 +10,7 @@ Note: Although bins.ws looks similar to bins.su but I don't know if they have th
 
 | Deta | Heroku | Vercel |
 |---|---|---|
-| [![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy) | [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy) | [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/ArnabXD/bins-ws-api) |
+| [![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy) | [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy) | [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/DRagon94145/dragon-bin-api) |
 
 ## API
 
@@ -64,7 +64,7 @@ Response :
 ## Running Locally
 
 ```bash
-$ git clone https://github.com/ArnabXD/bins-ws-api
+$ git clone https://github.com/DRagon94145/dragon-bin-api.git
 $ cd bins-ws-api
 $ npm install 
 $ npm start

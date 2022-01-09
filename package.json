@@ -4,7 +4,7 @@
   "description": "An Unofficial API to get BIN Details from bins.su",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArnabXD/bins-ws-api"
+    "url": "https://github.com/DRagon94145/dragon-bin-api"
   },
   "main": "index.js",
   "scripts": {

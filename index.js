@@ -12,7 +12,7 @@ app.get('/api/:bin', async (req, res) => {
 })
 
 app.use(async (_, res) => {
-    res.redirect(301, 'https://github.com/ArnabXD/bins-ws-api');
+    res.redirect(301, 'https://github.com/DRagon94145/dragon-bin-api');
 })
 
 app.listen(PORT, () => console.log(`[Server]: Running ar PORT => ${PORT}`))
